@@ -1,0 +1,13 @@
+.Container{
+
+    border: 1px solid gray;
+    width:400px;
+    text-align:center;
+    margin: 2% 0% 3% 35%;
+    padding: 20px;
+    box-shadow: 5px 5px 5px gray;
+   
+}
+ul li{
+    list-style: none;
+}
